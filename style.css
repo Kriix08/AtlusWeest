@@ -1,2 +1,26 @@
  @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
  font-family: 'Roboto Condensed';
+
+a:link {
+  color: grey;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: grey;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: grey;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: grey;
+  background-color: transparent;
+  text-decoration: underline;
+}
