@@ -1,0 +1,1 @@
+ayo its a parody website for my parody account (@WeestAtlus) which is parodying @Atlus_West =)
