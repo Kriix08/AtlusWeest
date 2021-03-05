@@ -2,25 +2,25 @@
  font-family: 'Roboto Condensed';
 
 a:link {
-  color: grey;
+  color: red;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: grey;
+  color: green;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: grey;
+  color: white;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:active {
-  color: grey;
+  color: yellow;
   background-color: transparent;
   text-decoration: none;
 }
